@@ -52,6 +52,9 @@ H: Pausa.
 Y: Cancelar partida.
 
 
-La imagen de la pantalla de carga y carátula se ha obtenido
-(con permiso de su autor) del original “Astronaut”, de MICHAEL SMITH.
-Síguelo en twitter / instagram en @Doodlebags.
+La imagen de la pantalla de carga y carátula se ha obtenido (con permiso de su autor) del original “Astronaut”, de MICHAEL SMITH. Síguelo en twitter / instagram en @Doodlebags.
+
+RED PLANET está publicado bajo licencia GPL v2 para todos los componentes de software* (ver license.txt).
+* Sin embargo, tenga en cuenta que las ilustraciones utilizadas para la portada NO están publicadas bajo la licencia GPL v2. 
+Estas ilustraciones son propiedad intelectual de Mike Smith y están sujetas a condiciones de licencia independientes. 
+Cualquier uso, reproducción o distribución de las ilustraciones debe ser autorizado por Mike Smith.
