@@ -56,6 +56,9 @@ M:      Music Yes/No.
 ENTER:  Pause.
 ESC:    Cancel game.
 
+The image of the loading screen and the cover artwork  is taken (with permission of the author) from the original "Astronaut" by Michael Smith. Follow him on twitter/instagram at @Doodlebags.
 
-The image of the loading screen and the cover artwork  is taken (with permission of the author) from the original "Astronaut" by Michael Smith.
-Follow him on twitter/instagram at @Doodlebags.
+RED PLANET is released under GPL v2 for all software components* (see license.txt).
+* However, please note that the illustrations used for the cover artwork are NOT released under the GPL v2 license. 
+These illustrations are the intellectual property of Mike Smith and are subject to separate licensing terms. 
+Any use, reproduction, or distribution of the illustrations must be authorized by Mike Smith.
